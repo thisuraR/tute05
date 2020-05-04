@@ -1,0 +1,8 @@
+{
+  "Student" : {
+    "Address" : "Strings",
+    "ContactNo" : "Integer",
+    "ID" : "Strings",
+    "Name" : "Strings"
+  }
+}
